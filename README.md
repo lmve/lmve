@@ -3,7 +3,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on computer science.
 - 🌱 I’m currently learning operating system rust c/c++.
