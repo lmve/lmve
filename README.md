@@ -7,7 +7,7 @@
 - ⚡ C / Rust.
 - 🍻 Computer Science Student
 - Embedded System software engineer(on going)
-- 💼 any freelance work? do reach, <a href="1831232566@qq.com">email me</a> :)
+- 💼 any freelance work? do reach, email me : 1831232566@qq.com
 - 💬 ask me about anything, i am happy to help;
 
 
