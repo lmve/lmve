@@ -11,8 +11,6 @@
 - 💬 ask me about anything, i am happy to help;
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lmve)]()
-
   <img align="right" alt="GIF" src="https://github.com/KMSorSMS/KMSorSMS/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
