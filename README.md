@@ -4,7 +4,7 @@
 
 
 
-- ⚡ C / Rust.
+- ⚡ C/C++ && Rust.
 - 🍻 Computer Science Student
 - Embedded System software engineer(on going)
 - 💼 any freelance work? do reach, email me : 1831232566@qq.com
