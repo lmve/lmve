@@ -26,14 +26,4 @@
     <br />
     <br />
   </samp>
-</p>
-<p align="right">
-<a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></a> 
-<a><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a> 
-<a><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a> 
-<a><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a> 
-<a><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></a>
-<a><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></a>
-<a><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></a>
-</p>
+
